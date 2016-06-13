@@ -1,9 +1,9 @@
 {
   "name": "jQuery UI Sortable",
   "version": "1.0.0",
-  "homepage": "https://github.com/ryantbrown/jquery-ui-sortable",
+  "homepage": "https://github.com/sudiptpa/jqueryui-sortable",
   "authors": [
-    "Ryan Brown >ryan.brown.916@gmail.com>"
+    "Sujip Thapa >sudiptpa@gmail.com>"
   ],
   "description": "jQuery UI Sortable",
   "main": ["./jquery-ui-sortable.min.js","./jquery-ui-sortable.js"],

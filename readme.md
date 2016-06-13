@@ -18,14 +18,14 @@ Usage
 Call `sortable` on the parent element (`.sortable`) which contains the sorted elements (`.sort-item`). Specify the `axis`, `handle` and the `update` callback.
 
 ```javascript
-('.sortable').sortable({
+$('.sortable').sortable({
     items: '.sort-item',
     opacity: 0.7,
     axis: 'y',
     handle: 'i.icon-sort',
     update: function() {
         var data = $(this).sortable('serialize');
-        console.log(data)
+        console.log(data);
     }
 });
 ```
